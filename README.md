@@ -23,4 +23,4 @@ Charge Utiles
 707 - Quel est le poids moyen relatif de l'avion à vide / poids total décollage ? % 50
 708 - A380 sur un vol AR, le poids des émissions de CO2 rapportées au poids de l'avion ? 6
 
-A suivre
+A suivre 
